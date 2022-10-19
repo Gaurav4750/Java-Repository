@@ -71,7 +71,7 @@ class Main {
 			Print2DArray(Matrix_Multiply(mat1,mat2));
 		}
 		else{
-			System.out.print("Matrix Multiplication requires same number of column in Matrix 1 and row in Matrix 2");
+			System.out.print("Matrix Multiplication requires same number of columns in Matrix 1 and rows in Matrix 2");
 		}
 		
 	}
