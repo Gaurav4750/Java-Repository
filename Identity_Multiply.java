@@ -3,6 +3,7 @@ import java.util.*;
 
 class Main {
 	
+	// To print the 2d array.
 	public static void Print2DArray(int[][] mat)
 	{
 		int N = mat.length;
@@ -17,6 +18,7 @@ class Main {
 		}
 	}
 	
+	// To perform multiply the matrixes.
 	public static int[][] Matrix_Multiply(int[][] A, int[][] B)
 	{
 		int r1 = A.length;
@@ -41,6 +43,7 @@ class Main {
 		return out;
 	}
 	
+	// Identity matrix
 	public static int[][] Identity_Mat(int len)
 	{
 		int[][] res = new int[len][len];
