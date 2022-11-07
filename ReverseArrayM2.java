@@ -1,3 +1,5 @@
+//User wants to reverse a part of the array. i.e. like index a to b.
+
 import java.lang.*;
 import java.util.*;
 
