@@ -1,3 +1,5 @@
+// Reverse the array as a part. i.e. from index a to b.
+
 import java.lang.*;
 import java.util.*;
 
