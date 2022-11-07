@@ -1,3 +1,5 @@
+// Return the array after rotating it N times.
+
 import java.lang.*;
 import java.util.*;
 
