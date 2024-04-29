@@ -7,7 +7,8 @@ class ArrayRotate {
 	public static void Reversepart(int ar[],int s1,int s2)
 	{
 		int p1= s1, p2=s2;
-		
+
+		//test commit
 		while(p1<p2)
 		{
 			int temp = ar[p1];
